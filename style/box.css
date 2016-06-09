@@ -12,7 +12,6 @@
 @media (min-width: 50em) {
 	.boxActions {
 		text-align: left;
-		position: absolute;
 		top: 3%;
 		left: 3%;
 		right: 3%;

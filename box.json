@@ -1,10 +1,10 @@
 {
-	"name": "Box starter",
-	"description": "An optional & minimal starter kit for krdsbox components",
-	"author": "Moorthy",
-	"author-email": "moorthy.g@krds.fr",
-	"image": "absolute path of 500x500 jpg ( empty string if no image )",
-	"gif": "absolute path of 500x500 gif ( empty string if no image )",
-	"tags": "comma, separated, tags",
-	"repo-url": "https://github.com/krdsbox/box-starter"
+	"name": "Simple Swipe Menu",
+	"description": "A simple fixed menu that slides down from top",
+	"author": "Dicson",
+	"author-email": "dicson.deepak@krds.fr",
+	"image": "",
+	"gif": "",
+	"tags": "menu, swipe, mobile",
+	"repo-url": "https://github.com/krdsbox/simple-swipe-menu"
 }
