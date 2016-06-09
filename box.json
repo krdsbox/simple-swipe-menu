@@ -3,8 +3,8 @@
 	"description": "A simple fixed menu that slides down from top",
 	"author": "Dicson",
 	"author-email": "dicson.deepak@krds.fr",
-	"image": "",
-	"gif": "",
+	"image": "img/packshot.png",
+	"gif": "img/packshot.gif",
 	"tags": "menu, swipe, mobile",
 	"repo-url": "https://github.com/krdsbox/simple-swipe-menu"
 }
